@@ -1,0 +1,639 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+    
+}
+.firstsect{
+    background-color:rgb(87, 194, 243);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+    
+}
+
+.collapse{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    -ms-flex-align: center;
+}
+ .nav-item .nav-link {
+    color:white!important;
+    margin-right: 10px;
+    font-size: 20px;
+
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    opacity: 1;
+}
+.nav-item .nav-link:hover{
+    color: chartreuse!important;
+}
+    
+    
+
+.rnd{
+    font-weight: bold;
+    font-family: 'Roboto';
+    color: black!important;
+
+}
+.readmore{
+    width: 150px;
+    background-color: darkblue;
+    color:white;
+    text-align: center;
+    padding: 7px;
+    border: none;
+    border-radius: 20px;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+.readmore:hover{
+    background-color: black;
+    width: 180px;
+    transition: all 2s;
+    border: none;
+}
+.clo{
+    color:white;
+    font-family: 'Roboto';
+    font-size: 45px;
+    text-align: left;
+    font-weight: bold;
+}
+.clo2{
+    color: darkblue;
+    font-family: 'Poppins';
+    font-size: 20px;
+}
+.lpn{
+    color: rgb(46, 46, 243);
+    padding:8px;
+    background: red;
+    border-radius: 50%;
+    text-align: center;
+    text-shadow: 2px 2px 1px  black;
+}
+
+.rome{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+    height: 100%;
+
+    border-radius: 10px;
+
+
+    
+}
+
+.cnt{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    background-color:darkblue;
+}
+.cnt img{
+    border-radius: 10px;
+}
+.cnt p{
+    color: white;
+    font-weight: 700;
+    background-color: rgb(105, 218, 105);
+    text-align: center;
+    padding:6px 10px;
+    margin: 8px;
+    border-radius: 20px;
+}
+.cnt h4{
+    color: aqua;
+    font-family: 'Poppins';
+}
+#julee{
+    color: chartreuse;
+    font-family: Poppins;
+    background-color: none;
+    text-align: center;
+    padding:5px;
+
+    
+}
+.web3{
+    color: white;
+    font-size: 23px;
+    font-weight: 600px;
+    text-align: center;
+    text-transform: capitalize;
+    font-family: 'Roboto';
+}
+.webskills{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.webskills li{
+    list-style-type: none;
+    text-transform: capitalize;
+     margin: 5px;
+     text-align: center;
+     padding: 5px;
+
+
+    background-color: darkblue;
+    color: white;
+    border-radius: 20px;
+
+}
+.profile-cont{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.profileimg{
+    border-radius: 50%;
+    box-shadow: 2px 2px 5px  rgb(0,0,0,0.7);
+
+}
+#jul{
+    font-weight: bold;
+    color: chartreuse;
+    padding-top:5px;
+}
+.fa-solid{
+    font-size: 60px;
+    color:white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.fa-light{
+    font-size: 60px;
+    color: blue;
+
+}
+
+    
+
+
+.caro{
+    width: 100%;
+    margin: auto;
+
+    margin-top: 30px;
+    
+}
+
+h2{
+    color: chartreuse;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight:'Roboto';
+}
+
+    
+
+.lamp{
+    display: flex;
+    flex-direction:column;
+    justify-items: center;
+    align-items: center;
+}
+.lamp p{
+    margin-bottom: 2px;
+    text-transform: capitalize;
+    font-family: Poppins;
+    font-weight: bold;
+}
+.imj{
+    width: 70%;
+     height: 200px;
+    border-radius: 50%;
+}
+button.yoli{
+    border: none;
+    text-align: center;
+    width: 150px;
+    background-color: blue;
+    color: chartreuse;
+    border-radius: 20px;
+    font-size: 18px;
+    padding: 10px;
+}
+#lopus{
+    color: rgb(240, 227, 227);
+    text-align: center;
+    margin: 10px;
+    font-weight: bold;
+    padding-bottom: 20px;
+    margin-top: 8px;
+    padding: 5px;
+
+}
+h3{
+    color: rgb(65, 17, 238);
+    padding: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h2.hulee{
+    margin-top: 30px;
+    color:red;
+    font-size: 35px;
+    text-transform: uppercase;
+    text-align: center;
+}
+.hnm{
+    color: rgb(32, 32, 238);
+    text-align: center;
+    text-shadow: 1px 1px 1px  rgb(51, 48, 48);
+    padding: 15px;
+    font-family: 'Roboto';
+    background-color:white;
+    border-radius: 10px;
+    margin-top: 10px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+
+#wolee{
+    color: darkblue;
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+}
+#subhead{
+    color: aquamarine;
+    text-align: left;
+    font-weight: 400;
+}
+.sect3{
+    background-color: blue;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+.soty{
+    font-weight:bold;
+    color: greenyellow;
+    font-size: 25px;
+}
+.fa-star-sharp{
+    font-size: 50px;
+    color: black;
+}
+.spr{
+
+    text-align: left;
+    color: rgb(247, 238, 238);
+    font-family:'Roboto';
+    padding: 5px;
+}
+.floors34{
+ width: 80%;
+ height:300px;
+ border-radius: 20px;
+ box-shadow: 2px 2px  5px rgba(0,0,0,0.5);
+ margin-bottom: 12px;
+}
+.esct6{
+    
+    background-color: rgb(120, 219, 21);
+    margin-top: 10px;
+}
+.sect7{
+    background-color: darkblue;
+    margin-top: 30px;
+}
+.sect7 img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    box-shadow: 1.5px 1px 1px 1px rgb(17, 17, 17);
+}
+.sect7 img:hover{
+    transform:rotate(360deg);
+    
+    transition: all 3s;
+    width: 220px;
+    height: 220px;
+}
+.sect8{
+    background-color: rgb(123, 248, 165);
+}
+.sect8 img{
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    
+}
+.egusi1{
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Poppins';
+    color: chartreuse;
+    text-transform: uppercase;
+    
+}
+.egusi1 span{
+    color: white;
+}
+.group1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.group1 p{
+    text-align: center;
+    color: antiquewhite;
+    font-family: 'Roboto';
+}
+.group1 h4{
+    color: lightblue;
+    text-transform: capitalize;
+}
+.group1 h6{
+    background-color: chartreuse;
+    color: blue;
+    border-radius: 20px;
+    text-align: center;
+    width: 50%;
+    padding: 10px;
+}
+.lolu{
+    width: 15%;
+    background-color:white;
+    min-height: 3px;
+    align-items: center;
+    margin: auto;
+    border-radius: 5px;
+    margin-top: 2px;
+
+
+
+
+}
+.molu{
+    color: blue;
+    background-color: white;
+    text-align: center;
+    font-weight: 700px;
+    padding: 8px;
+    border-radius:10px ;
+    text-transform: capitalize;
+    width: 70%;
+    
+    
+}
+.molu:hover{
+    color: red;
+    width: 100%;
+    transition: width 2s;
+    background-color: darkblue;
+    margin-top: 20px;
+    cursor: pointer;
+    
+
+}
+#op{
+    color: blue;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 2px;
+    padding-bottom: 2px;
+}
+.carous-heading{
+    color: blue;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-shadow: 1px 1px  2px rgb(25, 24, 24);
+
+    border-radius: 10px;
+    padding: 8px;
+    
+}
+.item h4{
+    text-align: center;
+    text-transform: capitalize;
+}
+#carous{
+    background-color: blue;
+    color: white;
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    padding: 8px;
+    border-radius: 10px;
+}
+.sect12{
+    background-color: white;
+}
+.interest{
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+    margin-top: 20px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 1px 1px black;
+}
+.kunlep{
+
+    font-size: 25;
+    text-transform: uppercase;
+    color:white; 
+    
+    font-weight: bold;
+    cursor: pointer;
+}
+.interest input{
+    width:150px;
+    border-radius: 10px;
+    text-align: center;
+    border: none;
+}
+.interest h3{
+    color: lightgreen;
+
+    
+}
+#total {
+    border: none;
+    background-color:chartreuse;
+    color: rgb(21, 8, 194);
+    font-weight: bold;
+    border-radius: 8px;
+    text-align: center;
+    padding: 5px;
+    width: 150px;;
+
+}
+#lopu{
+   color: white; 
+   font-size: 24px;
+   text-align: center;
+}
+.caroul{
+width: 500px;
+height:500px;
+overflow: hidden;
+align-self: center;
+margin: auto;
+
+}
+.img-cont{
+    display: flex;
+    transition: transform 5s linear;
+
+
+}
+.img-cont img{
+    height: 500px;
+    width: 500px;
+    object-fit: cover;
+    
+}
+#addmore{
+    margin: 8px;
+    padding: 8px;
+    border-radius: 10px;
+    border: none;
+}
+.sect20{
+    background-color:rgb(6, 6, 66);
+    color: azure;
+    margin-top: 20px;
+    
+}
+#contact-heading{
+    text-align: center;
+    font-weight: 400px;
+    font-family: 'Roboto';
+}
+.fab{
+    font-size: 34px;
+    color: chartreuse;
+    margin-top: 5px;
+
+}
+#bottom-p{
+    text-align: center;
+    opacity: 0.5;
+    text-transform: capitalize;
+    margin-bottom: 10px;
+}
+.p-contact{
+    font-family: 'Roboto';
+    text-transform: capitalize;
+    font-weight: 400px;
+}
+.emplyeeicon{
+    display: flex;
+    flex-direction:row;
+    justify-content: left;
+    margin-top: 2px;
+    margin-bottom: 5px;
+}
+.emplyeeicon i{
+    font-size: 25px;
+    padding-right:10px;
+}
+.emplyeeicon i:hover{
+    color: lightskyblue;
+}
+.fa-home,.fa-phone{
+color: chartreuse;
+text-align: center;
+margin: auto;
+font-size: 40px;
+border: 2px solid white;
+border-radius: 50%;
+padding: 10px;
+}
+.conat2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+
+.conat2 input{
+
+    margin:5px;
+    border-radius: 10px;
+    padding:8px;
+    border: none;
+}
+.trainee-23{
+  margin-left: 10px;
+  position: relative;
+  margin-top: 8px;
+}
+.trainee-23 h2{
+    font-weight: bold;
+    font-family: 'Poppins';
+}
+.t-center{
+    text-align: center;
+    text-transform:capitalize;
+    font-family: 'Roboto';
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.trainspan{
+    color: blue;
+    font-weight: bold;
+}
+#traineeprice{
+   position: absolute; 
+   text-align: center;
+   font-size: 25px;
+   font-weight: 400;
+   color: blue;
+   background-color:chartreuse;
+   border-radius: 50%;
+   padding:12px;
+   right: 10px;
+   top: 20px;
+}
+
+
+#mugee{
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    padding: 10px;
+    border-radius:  10px;
+    color:black;
+    background-color: chartreuse;
+    margin-bottom: 10px;
+    font-weight: 600;
+    text-transform: capitalize;
+    cursor: pointer;
+}
+
+.slide101{
+    display: none;
+    
+}
+#furniture-p{
+    width: 100px;
+
+    text-align: center;
+    border-radius:20px; 
+    background-color:chartreuse;
+    padding:10px;
+
+}
+
